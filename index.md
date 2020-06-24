@@ -8,3 +8,5 @@ Mein Charakter heißt Goku und kann KI-Bälle schießen. Er ist ein netter junge
 
 > Kame Hame Haaaa
 > Ist stehts die Lösung
+
+<img scr="https://cdn.pixabay.com/photo/2016/08/21/21/51/anime-1610872_960_720.jpg">
