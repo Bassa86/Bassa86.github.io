@@ -5,3 +5,6 @@ Mein Charakter heißt Goku und kann KI-Bälle schießen. Er ist ein netter junge
 * hat viel Hunger
 * wird stärker, wenn er kurz vor dem Tod ist
 * hat mal schwarze und mal blonde Haare
+
+> Kame Hame Haaaa
+> Ist stehts die Lösung
